@@ -39,5 +39,14 @@ git clone https://github.com/hazmi-badrunsham/expo-nhost-auth-template.git
 cd expo-nhost-auth-template
 npm install
 npx expo start
-
 ```
+## 🔧 Configuration: `lib/nhost/client.ts`
+
+Make sure to **add your `nhostSubdomain` and `nhostRegion`** in the `lib/nhost/client.ts` file before running the application.
+
+This is necessary for the Nhost client to properly initialize and connect to your backend.
+
+### 📘 References
+
+- 🔐 Nhost Auth Documentation: [https://docs.nhost.io/products/auth/overview](https://docs.nhost.io/products/auth/overview)
+- 🌐 Expo Router Guide: [https://docs.expo.dev/versions/latest/sdk/router/](https://docs.expo.dev/versions/latest/sdk/router/)

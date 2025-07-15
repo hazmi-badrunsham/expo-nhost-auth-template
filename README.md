@@ -10,7 +10,7 @@ This is a minimal authentication starter template using **Expo Router** and **Nh
 - Nhost authentication
   
 ## 📁 Project Structure
-
+```
 app/
 │
 ├── (auth)/                 # Authentication screens
@@ -29,7 +29,7 @@ app/
 lib/
 └── nhost/
     └── client.ts           # Nhost configuration
-    
+ ```   
 ## 🛠️ Setup
 
 1. **Clone the repo:**

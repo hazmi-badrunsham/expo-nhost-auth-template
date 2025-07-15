@@ -50,3 +50,5 @@ This is necessary for the Nhost client to properly initialize and connect to you
 
 - 🔐 Nhost Auth Documentation: [https://docs.nhost.io/products/auth/overview](https://docs.nhost.io/products/auth/overview)
 - 🌐 Expo Router Guide: [https://docs.expo.dev/versions/latest/sdk/router/](https://docs.expo.dev/versions/latest/sdk/router/)
+
+![expo-router nhost auth screenshot](https://i.imgur.com/xvdVtSn.png)
